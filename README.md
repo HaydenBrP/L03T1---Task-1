@@ -99,7 +99,7 @@ To use run the app. cd to to the root directory with terminal.
 
 run the command:
 
-$ *python3 garden.py run*
+$ *python3 semantic.py run*
 
 
 ## **Credits**:
